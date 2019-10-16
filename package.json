@@ -1,0 +1,21 @@
+{
+  "name": "exercice1",
+  "version": "1.0.0",
+  "description": "Mon TP introduction à NodeJs et NPM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "numbers": "node app.js",
+    "http": "node http-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElNaj/diginamic-js-outillage-tp1.git"
+  },
+  "author": "Najim El Fateoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElNaj/diginamic-js-outillage-tp1/issues"
+  },
+  "homepage": "https://github.com/ElNaj/diginamic-js-outillage-tp1#readme"
+}
